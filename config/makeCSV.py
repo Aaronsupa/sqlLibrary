@@ -18,7 +18,7 @@ with open('data.txt', 'r') as file:
 for x in data.keys():
     print(x , ":" , data.get(x))
 
-with open('libData.csv', 'w') as csvfile:
+with open('libData.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
     field = ["name", "author","numAvail"]
     numAvaiablePossible = [1,2,3,4]
@@ -27,7 +27,7 @@ with open('libData.csv', 'w') as csvfile:
         for i in data.get(curr):
             writer.writerow([i, curr, random.choice(numAvaiablePossible)])
 
-with open('authorNames.csv', 'w') as csvfile:
+with open('authorNames.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
     field = ["name"]
     writer.writerow(field)
