@@ -1,0 +1,100 @@
+"To Kill a Mockingbird", Harper Lee
+"1984", George Orwell
+"The Great Gatsby", F. Scott Fitzgerald
+"Pride and Prejudice", Jane Austen
+"The Catcher in the Rye", J.D. Salinger
+"The Lord of the Rings", J.R.R. Tolkien
+"Harry Potter and the Sorcerer's Stone", J.K. Rowling
+"The Hobbit", J.R.R. Tolkien
+"Brave New World", Aldous Huxley
+"The Chronicles of Narnia", C.S. Lewis
+"Animal Farm", George Orwell
+"The Hunger Games", Suzanne Collins
+"The Da Vinci Code", Dan Brown
+"Lord of the Flies", William Golding
+"Gone with the Wind", Margaret Mitchell
+"The Hitchhiker's Guide to the Galaxy", Douglas Adams
+"Jane Eyre", Charlotte Brontë
+"The Shining", Stephen King
+"The Diary of a Young Girl", Anne Frank
+"The Alchemist", Paulo Coelho
+"A Tale of Two Cities", Charles Dickens
+"The Girl with the Dragon Tattoo", Stieg Larsson
+"Moby-Dick", Herman Melville
+"The Picture of Dorian Gray", Oscar Wilde
+"The Road", Cormac McCarthy
+"The Grapes of Wrath", John Steinbeck
+"The Kite Runner", Khaled Hosseini
+"The Adventures of Huckleberry Finn", Mark Twain
+"The Secret Garden", Frances Hodgson Burnett
+"Wuthering Heights", Emily Brontë
+"The Little Prince", Antoine de Saint-Exupéry
+"Fahrenheit 451", Ray Bradbury
+"The Count of Monte Cristo", Alexandre Dumas
+"The Stand", Stephen King
+"One Hundred Years of Solitude", Gabriel García Márquez
+"The Book Thief", Markus Zusak
+"The Bell Jar", Sylvia Plath
+"Frankenstein", Mary Shelley
+"Anna Karenina", Leo Tolstoy
+"The Outsiders", S.E. Hinton
+"The Night Circus", Erin Morgenstern
+"The Name of the Wind", Patrick Rothfuss
+"The Old Man and the Sea", Ernest Hemingway
+"Little Women", Louisa May Alcott
+"A Game of Thrones", George R.R. Martin
+"Dracula", Bram Stoker
+"The Handmaid's Tale", Margaret Atwood
+"The Road Less Traveled", M. Scott Peck
+"The Scarlet Letter", Nathaniel Hawthorne
+"The Help", Kathryn Stockett
+"The Martian", Andy Weir
+"The Sun Also Rises", Ernest Hemingway
+"The Brothers Karamazov", Fyodor Dostoevsky
+"The Poisonwood Bible", Barbara Kingsolver
+"A Clockwork Orange", Anthony Burgess
+"The Fault in Our Stars", John Green
+"Middlemarch", George Eliot
+"The Color Purple", Alice Walker
+"East of Eden", John Steinbeck
+"A Thousand Splendid Suns", Khaled Hosseini
+"The Joy Luck Club", Amy Tan
+"The Sound and the Fury", William Faulkner
+"A Farewell to Arms", Ernest Hemingway
+"Les Misérables", Victor Hugo
+"The Giver", Lois Lowry
+"Beloved", Toni Morrison
+"The Lovely Bones", Alice Sebold
+"The Lord of the Rings", J.R.R. Tolkien
+"The Adventures of Sherlock Holmes", Arthur Conan Doyle
+"The Time Traveler's Wife", Audrey Niffenegger
+"The Odyssey", Homer
+"A Prayer for Owen Meany", John Irving
+"The Jungle", Upton Sinclair
+"A Tree Grows in Brooklyn", Betty Smith
+"The Pillars of the Earth", Ken Follett
+"The Glass Castle", Jeannette Walls
+"The Goldfinch", Donna Tartt
+"The Secret Life of Bees", Sue Monk Kidd
+"Life of Pi", Yann Martel
+"The Wind-Up Bird Chronicle", Haruki Murakami
+"The Immortal Life of Henrietta Lacks", Rebecca Skloot
+"The Help", Kathryn Stockett
+"The Joy Luck Club", Amy Tan
+"The Road", Cormac McCarthy
+"The Catcher in the Rye", J.D. Salinger
+"The Lord of the Rings", J.R.R. Tolkien
+"To Kill a Mockingbird", Harper Lee
+"Pride and Prejudice", Jane Austen
+"Harry Potter and the Sorcerer's Stone", J.K. Rowling
+"1984", George Orwell
+"The Great Gatsby", F. Scott Fitzgerald
+"The Hobbit", J.R.R. Tolkien
+"Brave New World", Aldous Huxley
+"The Hunger Games", Suzanne Collins
+"The Da Vinci Code", Dan Brown
+"Animal Farm", George Orwell
+"The Chronicles of Narnia", C.S. Lewis
+"Lord of the Flies", William Golding
+"Gone with the Wind", Margaret Mitchell
+"The Hitchhiker's Guide to the Galaxy", Douglas Adams
