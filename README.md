@@ -10,6 +10,7 @@
          authorNames.csv -> Made from the madeCSV file for use in SQL tables
 ```
 ### My Schema 
+![Database Schema](https://github.com/Aaronsupa/sqlLibrary/assets/77075455/0fb047c1-f8b1-4d32-9847-0530d8a1b5dc)
 
 ### Features
 
