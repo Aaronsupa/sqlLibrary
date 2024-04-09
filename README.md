@@ -9,6 +9,8 @@
          libData.csv -> Made from the madeCSV file for use in SQL tables
          authorNames.csv -> Made from the madeCSV file for use in SQL tables
 ```
+### My Schema 
+
 ### Features
 
 ### Technologies
