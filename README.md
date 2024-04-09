@@ -41,7 +41,6 @@ select * from Books order by Price desc limit 5;
 #### Result 
 | book_id | title                                 | author_name             | number_available | price |
 |---------|---------------------------------------|-------------------------|------------------|-------|
-| 3       | Ernest Hemingway                      | 3                       | 7                | 10    |
 | 4       | The Great Gatsby                      | F. Scott Fitzgerald    | 1                | 10    |
 | 13      | The Da Vinci Code                     | Dan Brown               | 1                | 10    |
 | 16      | The Hitchhiker's Guide to the Galaxy | Douglas Adams           | 1                | 10    |
